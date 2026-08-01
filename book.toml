@@ -10,6 +10,7 @@ git-repository-url = "https://github.com/huacheakedanc/bihar-al-anwar-md"
 default-theme = "light"
 preferred-dark-theme = "navy"
 text-direction = "rtl"
+additional-css = ["theme/custom.css"]
 
 [output.html.search]
 enable = true
